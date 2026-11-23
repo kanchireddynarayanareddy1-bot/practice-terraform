@@ -11,8 +11,8 @@ variable "instances" {
     default = [ "mongodb", "redis", "mysql", "rabbitmq" ]
 }
 variable "Zone_Id" {
-    default = "Z00360111YCBT2EKROU2Y" 
+    default = "Z0983967EFX0Q8MCTIII" 
 }
 variable "domain_name" {
-    default = "chandrahasa.online"
+    default = "chinna.store"
 }
